@@ -1,0 +1,61 @@
+:root {
+  --light-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  --dark-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
+}
+
+body {
+  background-color: #42C2FF;
+  font-family: sans-serif;
+}
+
+.main {
+  min-height: 95vh;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  background-color: #fff;
+  width: 90vw;
+  max-width: 450px;
+  padding: 1.5rem 2rem;
+  border-radius: 0.25rem;
+  box-shadow: var(--dark-shadow);
+}
+
+.person {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  column-gap: 0.75rem;
+  margin-bottom: 0.7rem;
+  align-items: center;
+}
+
+.person img {
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.dateSection {
+  margin-top: 30px;
+}
+
+.dateSection span {
+  margin-right: 10px;
+}
+
+.footer {
+  width: 190px;
+  margin: 0 auto 0 auto;
+  font-weight: bold;
+}
+
+@media screen and (max-width: 800px) {
+  .container {
+    max-width: 350px;
+  }
+}
+
