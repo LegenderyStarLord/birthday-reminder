@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/birthday-reminder/static/css/main.c5ac4063.css",
+    "main.js": "/birthday-reminder/static/js/main.9a20b499.js",
+    "static/js/787.28cb0dcd.chunk.js": "/birthday-reminder/static/js/787.28cb0dcd.chunk.js",
+    "static/media/photo-9.jpg": "/birthday-reminder/static/media/photo-9.bc990ea8b98156fd256d.jpg",
+    "static/media/photo-11.jpg": "/birthday-reminder/static/media/photo-11.7ceb5733ada209d9c3f4.jpg",
+    "static/media/photo-8.jpg": "/birthday-reminder/static/media/photo-8.c8cf0b1e2ed58f4951e6.jpg",
+    "static/media/photo-10.jpg": "/birthday-reminder/static/media/photo-10.4bc479a3645409001e9d.jpg",
+    "static/media/photo-3.jpg": "/birthday-reminder/static/media/photo-3.b46bb01a2f8d91dd39d9.jpg",
+    "static/media/photo-1.jpg": "/birthday-reminder/static/media/photo-1.0f81fcaaa73584833b59.jpg",
+    "static/media/photo-5.jpg": "/birthday-reminder/static/media/photo-5.8ab8fe72929b6b1a1a5c.jpg",
+    "static/media/photo-4.jpg": "/birthday-reminder/static/media/photo-4.81106005878b49604132.jpg",
+    "static/media/photo-7.jpg": "/birthday-reminder/static/media/photo-7.0e4553248cfa25e8bfdc.jpg",
+    "static/media/photo-12.jpg": "/birthday-reminder/static/media/photo-12.6a8ed8de48fcce2a2a9f.jpg",
+    "static/media/photo-2.jpg": "/birthday-reminder/static/media/photo-2.04f55f7b37cf55dbe281.jpg",
+    "static/media/photo-6.jpg": "/birthday-reminder/static/media/photo-6.373e2e783a3da23b8189.jpg",
+    "index.html": "/birthday-reminder/index.html",
+    "main.c5ac4063.css.map": "/birthday-reminder/static/css/main.c5ac4063.css.map",
+    "main.9a20b499.js.map": "/birthday-reminder/static/js/main.9a20b499.js.map",
+    "787.28cb0dcd.chunk.js.map": "/birthday-reminder/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5ac4063.css",
+    "static/js/main.9a20b499.js"
+  ]
+}
